@@ -1,0 +1,22 @@
+Sipes, Patricia
+10.3.2016
+
+Unit Testing plan for bomb catcher
+
+*Test device and items to make sure non null if( !d3d_ok) return NULL; or if !SUCCEEDED
+---make sure that all pointers are pointing to non null memory locations
+---can also be done with asserts
+
+*Header tests to make sure headers actually lead to where they need to go
+---Can be automated thru frameworks like Hestia or visualassert or checker functions
+
+*Function tests to make sure all functions run and are used
+---Can be automated thru frameworks like Hestia or visualassert or done via a self written test file
+      that tests, makes sure return is correct, and parameters link correctly
+
+*Test access. Make sure private members are not accessible outside and that public are
+
+
+visualassert, as a fully integrated framework with visual studio, is an optimal framework
+with the addition of a service like coverall, a fully functional testing suite can be created. 
+
