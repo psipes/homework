@@ -1,0 +1,120 @@
+Sipes, Patricia
+31 Mar 2016
+
+
+*********************RETROSPECTIVE RESEARCH*****************************
+*----------------------------------------------------------------------*
+* Research various methods of retrospectives find an approach that     * 
+*                     works best for you.                              *
+************************************************************************
+
+Information found primarly/initially from http://retrospectivewiki.org/
+
+
+--------------------------
+| SAILBOAT RETROSPECTIVE |
+--------------------------
+
+Created by: Luke Hohmann, improved upon by Mark Summers (and many others)
+
+PROS:
+   -Creative
+   -Visual
+   -Fully encompassing (problems, successes)
+
+CONS:
+   -Theme may pigeonhole team members who have a harder time seeing 
+    abstraction or get caught up in the narrative
+
+
+Description:
+A retrospective that uses a sailboat visual to ask what wind propels the sails,
+what anchors are holding the ship back, what pirates/rocks/dangers could be
+lurking, and a visualisation of the "promised land" (what the end product should
+be).
+
+
+
+Process:
+1. Setup:
+   Large picture of a sailboat is drawn with sail full, anchors behind, 
+   rocks/pirates/other things in front, and promised land further off. 
+   Sticky notes are handed out to members of team.
+2. Data Gathering:
+   Members are instructed to write down what has gone well/should be 
+   continued to help propel the ship, what is currently holding us
+   back, and what dangers they see in the current state of things.
+   Members are instructed to write one item down per sticky note and
+   place them on the diagram in their designated spots.
+3. Synthesising:
+   A pattern will begin to form, like items can be placed together and
+   discussion should begin.
+4. Next:
+   Members can vote on what they think from each categories are most 
+   important to address and continue discussion and resolutions
+   internally.
+
+
+Why I think it is a good idea:
+Personally, I like when there's a visual aspect to group activities.
+It's a fully formed narrative that also plays well to what we're 
+doing and really what we need to be looking at. I like the idea
+that it focuses on both the positive and negatives, creating a 
+fully formed look at what has been done and what needs to be done.
+
+
+
+------------------------------
+| APPRECIATIVE RETROSPECTIVE |
+------------------------------
+
+Created by: Hibri Marzook
+
+PROS:
+   -focuses on positives
+   -refocuses positively towards the future
+
+CONS:
+   -Focusing purely on the positive neglects the issues, particularly when 
+    there are major issues in previous sprints that need to be refocused.
+
+
+Description:
+A retrospective that focuses on the positive aspects focusing on what went
+well so far under the prime idea that everyone on the team is doing/did the best job
+they can/could.
+
+
+
+Process:
+1. Setup:
+   Ask each team member to write a note of appreciation to another team member.
+   Read them out loud.
+2. Data Gathering:
+   Using three colours of post it notes, have each team member write about
+   successes, events, and strengths of the previous sprint; seperate them on the 
+   board.
+3. Synthesising:
+   Hand out a second set of three colours. Have the team members write out what
+   successes, events, and strengths they can see for the future sprint. After 
+   these have been posted and read, have the team sort both future and present
+   notes into categories so that a pattern forms.
+4. Next:
+   Members can vote on what needs to be sustained through the next sprint.
+   Open discussion of what needs to be done to sustain positive locomotion.
+
+
+Why I think it is a good idea:
+Positivity is often an overlooked aspect of retrospectives. Sometimes, all
+that's needed to motivate people to work is to show them what good they are
+doing. This being said, I think it also has a bandaid quality on the negative
+issues plaguing the project.
+
+
+Other methods that were interesting:
+Tissue Massage Retrospective
+http://retrospectivewiki.org/index.php?title=Deep_Tissue_Massage_Retrospective
+This one focuses on finding the really problematic spots and working them
+until they can be released/worked out.
+
+
